@@ -47,7 +47,7 @@ Variable' section for the required keys.
 - **Seller**: The exchange you'd like to sell bitcoins from during arbitrage. Default is `campbx`
 
 Valid exchanges for the `--buyer` and `--seller` option are `bitstamp`, `campbx`,
-`btce`,and `coinbase`.
+`btce` and `coinbase`.
 
 #### Examples
 
